@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:   
       - name: Say hello
-        uses: erorpetar/GitHubBootcamp/hello-world-docker-action@v1
+        uses: erorpetar/DOConGitHubBootcamp/hello-world-docker-action@v1
         with:
           who-to-greet: '@wulfland'
